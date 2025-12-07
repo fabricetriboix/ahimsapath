@@ -4,15 +4,30 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome and disclaimer
+======================
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am writing this blog to covey the lessons I learned from life in the
+hope that it will help other people in their own lives, mostly my
+children.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I cover a wide variety of subjects in this blog, but I am not
+qualified in way to provide advice on any of those subjects. So I am
+not qualified to provide advice on pretty all the topics I am
+touching, including (but not limited to):
+ - Nutrition
+ - Psychology, psychoanalytic, psychiatry, and any other psy-thing
+ - Marital counseling
+ - Medical advice
+ - Mental health
+ - Accounting
+ - Law
+ - Personal finances
+ - Investments
+ - Tax advice
+ - Exercise and sports
+ - Pretty much anything else I blog about
 
-
-[jekyll-organization]: https://github.com/jekyll
+You will notice that most of my posts are recipes, but I really didn't
+intend this blog to be a collection of recipes. Please feel free to
+browse by [categories](categories/) to find non-recipe posts.
