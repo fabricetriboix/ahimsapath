@@ -10,6 +10,7 @@ layout: search
 <ul id="search-results"></ul>
 
 <script>
+  window.siteBaseUrl = "{{ site.baseurl }}";
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
