@@ -6,7 +6,7 @@ layout: home
 ---
 
 <div class="container">
-  <form action="/search.html" method="get">
+  <form action="{{ "/search.html" | relative_url }}" method="get">
     <label for="search_box">Search</label>
     <input type="text" id="search_box" name="query">
     <input type="submit" value="search">
