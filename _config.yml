@@ -21,9 +21,9 @@
 title: Ahimsa Path
 description: Lessons from life
 baseurl: ""
-#url: https://ahimsapath.com
-url: https://fabricetriboix.github.io/
-baseurl: /ahimsapath
+url: https://ahimsapath.com
+#url: https://fabricetriboix.github.io/
+#baseurl: /ahimsapath
 
 # Build settings
 theme: minima
