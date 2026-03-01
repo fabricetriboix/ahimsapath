@@ -1,5 +1,6 @@
 ---
-layout: search
+layout: page
+title: Search
 ---
 <form action="{{ "/search.html" | relative_url }}" method="get">
   <label for="search-box">Search</label>
@@ -10,6 +11,7 @@ layout: search
 <ul id="search-results"></ul>
 
 <script>
+  window.siteBaseUrl = "{{ site.baseurl }}";
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {

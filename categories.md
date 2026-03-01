@@ -21,7 +21,7 @@ function toggle(divname) {
   <div id="{{ category_name }}" style="display:none">
     <ul>
       {% for post in site.categories[category_name] %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
