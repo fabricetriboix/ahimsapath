@@ -11,7 +11,6 @@ for 10 minutes).
 
 Put the chickpeas (and the cooking water if still available) into a
 big pot. Add:
-  - some water
   - one big chopped onion
   - a few garlic cloves, chopped
   - a few tomatoes, chopped
@@ -21,9 +20,9 @@ big pot. Add:
   - oregano
   - a bit of turmeric
 
-Bring to a boil and let it simmer for 20 minutes. Then scoop about 3/4
-of the chickpeas and blend them. Put the mixture back into the pot and
-add some wholemeal pasta. Cook until the pasta are cooked, adjusting
-the water if necessary.
+Bring to a boil and let it simmer for 20 minutes. Then scoop the
+chickpeas and some of the liquid and blend them. Put the mixture back
+into the pot and add some wholemeal pasta. Cook until the pasta are
+cooked, adjusting the water if necessary.
 
 This is a really nice comfort dish, delicious and healthy!
