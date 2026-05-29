@@ -3,7 +3,7 @@ layout: post
 title: Mung beans soup
 date: 2021-06-07
 categories: [recipe]
-tags: [side, vegan, south asian, no fresh food]
+tags: [side, vegan, south asian, no fresh food]i, stew
 ---
 
 This is a delicious and nutrition soup that can be eaten for breakfast

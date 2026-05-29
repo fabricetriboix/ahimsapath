@@ -3,7 +3,7 @@ layout: post
 title: Corn Chowder Soup
 date: 2023-12-28
 categories: [recipe]
-tags: [vegan, western, meal]
+tags: [vegan, western, meal, stew]
 ---
 
 Water-fry 1 diced onion in a large pot, then add:

@@ -3,7 +3,7 @@ layout: post
 title: Hearty veg soup
 date: 2023-02-18
 categories: [recipe]
-tags: [vegan, western, meal]
+tags: [vegan, western, meal, stew]
 ---
 
 

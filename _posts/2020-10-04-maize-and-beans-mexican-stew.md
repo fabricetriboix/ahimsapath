@@ -3,7 +3,7 @@ layout: post
 title: Maize and beans mexican stew
 date: 2020-10-04
 categories: [recipe]
-tags: [meal, vegan, mexican, no fresh food]
+tags: [meal, vegan, mexican, no fresh food, stew]
 ---
 
 I like mexican food, and this stew is wonderful! On top of that, it's

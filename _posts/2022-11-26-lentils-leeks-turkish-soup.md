@@ -3,7 +3,7 @@ layout: post
 title: Lentils and leeks Turkish soup
 date: 2022-11-26
 categories: [recipe]
-tags: [meal, vegan, mediterranean]
+tags: [meal, vegan, mediterranean, stew]
 ---
 
 This soup tastes so good, it's hard to stop! Perfect in winter.

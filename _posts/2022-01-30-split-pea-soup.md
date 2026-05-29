@@ -3,7 +3,7 @@ layout: post
 title: Split pea soup
 date: 2022-01-30
 categories: [recipe]
-tags: [meal, vegan, south asian]
+tags: [meal, vegan, south asian, stew]
 ---
 
 Soak 450g of split peas overnight.

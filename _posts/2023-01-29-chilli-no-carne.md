@@ -3,7 +3,7 @@ layout: post
 title: Chilli no carne
 date: 2023-01-29
 categories: [recipe]
-tags: [meal, vegan, mexican]
+tags: [meal, vegan, mexican, stew]
 ---
 
 Mexican classic, vegan version.

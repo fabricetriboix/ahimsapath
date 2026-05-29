@@ -3,7 +3,7 @@ layout: post
 title: Super quick veg curry
 date: 2020-11-14
 categories: [recipe]
-tags: [meal, vegan, south asian, no fresh food]
+tags: [meal, vegan, south asian, no fresh food, stew]
 ---
 
 The hardest part of this curry is to cut the onion and garlic!

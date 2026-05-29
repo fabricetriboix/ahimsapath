@@ -105,3 +105,7 @@ the legs.
 I am not a fitness instructor, please do not use anything I wrote in
 this post to make decisions about your workouts or your health. I just
 shared my experience in the hope that it will be useful.
+
+Update 29 May 2026: My Garrod's pads in my finger joints are
+completely gone, and my sacroiliac joint is not bothering me at all
+now.

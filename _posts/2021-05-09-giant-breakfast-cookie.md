@@ -27,6 +27,9 @@ Toss in a smoothie blender:
 
 Blend until smooth.
 
+NOTE (29 May 2026): Now I do not blend the mixture, just mix it well.
+It's easier and works out just as well. It also has more texture.
+
 Stir in 1 tbsp chocolate chips, 1 tsbp sunflower seeds and 1 tbsp
 pumpkin seeds. Pour in a baking dish (no need to grease it).
 

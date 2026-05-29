@@ -3,7 +3,7 @@ layout: post
 title: "Ribollita: Rustic Italian soup"
 date: 2021-04-01
 categories: [recipe]
-tags: [meal, vegan, mediterranean]
+tags: [meal, vegan, mediterranean, stew]
 ---
 
 I love this soup!

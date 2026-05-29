@@ -3,7 +3,7 @@ layout: post
 title: Moroccan couscous
 date: 2022-04-18
 categories: [recipe]
-tags: [meal, vegan, mediterranean]
+tags: [meal, vegan, mediterranean, stew]
 ---
 
 Traditionally, Moroccan couscous uses a lot of meat, but without the

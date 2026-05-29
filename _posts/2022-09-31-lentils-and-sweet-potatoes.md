@@ -3,7 +3,7 @@ layout: post
 title: Lentils and sweet potatoes
 date: 2022-09-31
 categories: [recipe]
-tags: [meal, vegan, south asian]
+tags: [meal, vegan, south asian, stew]
 ---
 
 That's a super easy, super delicious and super nutritious recipe!

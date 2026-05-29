@@ -3,7 +3,7 @@ layout: post
 title: Three Bean Soup
 date: 2023-12-28
 categories: [recipe]
-tags: [vegan, south asian, meal]
+tags: [vegan, south asian, meal, stew]
 ---
 
 Soak 1/2 cup brown lentils overnight, then cook in a pressure cooker
