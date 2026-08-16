@@ -13,19 +13,20 @@ oil you want), but is still somewhat healthy.
 
 In a big bowl, put the following (and in that order):
 
- - 1 cup unsweetened soya milk
+ - 1/2 cup unsweetened soya milk
+ - 1/2 tsp salt
+ - 3 tbsp unrefined sugar
+ - 2 tsp dry yeast (if the weather is cold, wait for 5 minutes before
+   adding the rest of the ingredients)
  - 1.5 cup atta flour
  - 3 tbsp vital wheat gluten
- - 3 tbsp unrefined sugar
- - 2 tsp dry yeast
- - 1/2 tsp salt
  - 1.5 tsp coconut oil
 
-The additional gluten is necessary because atta flour is not strong
-enough. It will make the dough more elastic and less of a brick.
-Please also note that the salt is kind of necessary to get the yeast
-to properly work. Mix the ingredients with your fingers.. Adjust the
-milk or the flour so to adjust the consistency. The dough should be
+The additional gluten is necessary because the atta flour is not
+strong enough. It will make the dough more elastic and less of a
+brick. Please also note that the salt is kind of necessary to get the
+yeast to properly work. Mix the ingredients with your fingers.. Adjust
+the milk or the flour to adjust the consistency. The dough should be
 elastic, soft and a bit sticky on your fingers.
 
 Then put the dough on a floured surface and knead it 150 turns. Cover
